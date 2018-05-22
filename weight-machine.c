@@ -21,4 +21,5 @@ int main()
     else {
         printf("Fuer dieses Gewicht sind keine Gewichte vorhanden");
     }
+	return 0;
 }
